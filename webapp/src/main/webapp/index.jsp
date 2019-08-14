@@ -5,7 +5,7 @@
 <h3> Jai Sri RAM Jai Sita RAM </h3>
 <body bgcolor="#CC990">
 <p>
-<font size="5" face="arial" color="red">
+<font size="10" face="arial" color="black">
 This is first on jenkins deploy .war file from ansible to tomcat server.
 </font>
 </p>
