@@ -4,5 +4,10 @@
 <h2> Om Sri Hanumate Namaha </h2>
 <h3> Jai Sri RAM Jai Sita RAM </h3>
 <body bgcolor="#CC990">
-<h4> This is first on jenkins deploy .war file from ansible to tomcat server.<h4>
-  
+<p>
+<font size="5" face="arial" color="red">
+This is first on jenkins deploy .war file from ansible to tomcat server.
+</font>
+</p>
+</body
+</html>
