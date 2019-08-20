@@ -6,7 +6,7 @@
 <body bgcolor="#CC990">
 <p>
 <font size="10" face="arial" color="black">
-This is first on jenkins deploy .war file from ansible to tomcat server.
+This is deploying .war file from jenkins to Docker.
 </font>
 </p>
 </body
